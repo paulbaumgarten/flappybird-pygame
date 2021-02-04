@@ -1,6 +1,10 @@
 # flappybird-pygame
 Another Flappy Bird clone made with Pygame
 
+Got some Python programming experience but wouldn't know where to start with making a game. In less than 1 hour and 100 lines of code, we create a functional Flappy Bird clone.
+
+https://www.youtube.com/watch?v=7VqZ3p4mi7Y&feature=youtu.be
+
 ---
 
 Assumptions:
